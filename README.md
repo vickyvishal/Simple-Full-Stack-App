@@ -1,4 +1,4 @@
-A Simle Web App to list and detail the view about the latest block
+A Simple Web App to list and detail the view about the latest block
 ==================================
 
 
